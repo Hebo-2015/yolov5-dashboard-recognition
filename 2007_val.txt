@@ -1,0 +1,81 @@
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000009.jpg 244,133,308,205,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000015.jpg 83,162,224,309,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000021.jpg 221,1,449,234,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000027.jpg 339,124,413,196,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000052.jpg 242,118,376,273,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000055.jpg 216,123,405,301,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000094.jpg 323,1,387,72,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000095.jpg 1,168,108,309,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000099.jpg 187,54,415,303,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000102.jpg 60,119,201,236,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000111.jpg 99,1,234,86,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000112.jpg 265,114,440,273,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000154.jpg 96,25,321,307,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000164.jpg 152,50,330,288,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000178.jpg 86,57,230,230,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000188.jpg 357,31,443,112,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000193.jpg 146,57,393,309,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000195.jpg 168,61,246,144,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000211.jpg 247,89,325,179,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000222.jpg 125,63,272,203,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000232.jpg 253,147,360,237,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000243.jpg 94,90,303,309,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000256.jpg 215,48,433,225,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000284.jpg 10,176,152,309,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000286.jpg 162,45,239,117,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000293.jpg 196,98,354,239,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000299.jpg 124,49,208,123,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000301.jpg 168,7,412,298,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000307.jpg 199,77,312,197,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000313.jpg 280,66,390,161,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000315.jpg 120,125,148,145,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000355.jpg 244,123,309,188,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000360.jpg 67,145,226,288,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000389.jpg 140,41,399,291,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000400.jpg 137,25,397,292,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000407.jpg 176,1,425,309,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000417.jpg 372,78,435,141,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000427.jpg 81,3,300,242,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000442.jpg 301,96,451,240,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000446.jpg 136,56,375,276,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000461.jpg 248,110,372,231,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000464.jpg 156,183,244,279,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000467.jpg 250,121,357,223,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000469.jpg 78,199,186,287,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000477.jpg 188,179,255,243,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/000484.jpg 225,63,406,252,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/007.jpg 563,359,916,712,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/024.jpg 254,35,603,374,0 1240,191,1634,596,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/043.jpg 715,130,1108,535,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/051.jpg 453,553,869,978,0 1106,662,1383,950,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/061.jpg 348,37,735,456,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/068.jpg 638,228,1017,600,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/073.jpg 898,402,1142,639,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/082.jpg 180,117,544,484,0 1044,150,1602,685,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/090.jpg 912,96,1501,714,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/101.jpg 974,285,1270,578,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/117.jpg 397,123,698,421,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/118.jpg 607,597,904,894,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/130.jpg 317,370,867,894,0 957,364,1344,737,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/132.jpg 625,341,1025,743,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/152.jpg 504,359,815,659,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/167.jpg 995,365,1442,825,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/171.jpg 567,120,821,384,0 848,198,1251,593,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/174.jpg 161,184,630,661,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/202.jpg 132,15,524,411,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/205.jpg 28,38,761,768,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/227.jpg 56,69,725,727,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/254.jpg 23,34,135,136,0 174,30,297,149,0 315,13,420,123,0 439,13,575,100,0 209,233,332,341,0 363,254,474,354,0 322,117,436,243,0 363,359,491,478,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/272.jpg 16,11,653,645,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/275.jpg 164,130,644,625,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/294.jpg 57,26,952,697,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/295.jpg 95,6,442,267,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/299.jpg 52,75,348,429,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/313.jpg 555,177,855,478,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/329.jpg 33,99,92,157,0 9,160,100,233,0 85,41,157,103,0 158,22,260,120,0 279,46,334,100,0 338,61,426,142,0 93,103,205,192,0 208,104,352,203,0 347,160,436,223,0 122,207,158,238,0 170,214,207,239,0 192,191,216,208,0 219,211,258,241,0 308,198,359,247,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/353.jpg 11,6,360,354,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/371.jpg 54,82,318,373,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/380.jpg 291,37,537,281,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/386.jpg 5,11,160,160,0 7,165,163,319,0 325,163,482,318,0 325,9,482,156,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/390.jpg 146,112,450,251,0
+F:\yolov5-tf2-main\VOCdevkit/VOC2007/JPEGImages/396.jpg 299,171,1390,1346,0
